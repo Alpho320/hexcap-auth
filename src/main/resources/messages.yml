@@ -1,0 +1,4 @@
+Messages:
+  reload:
+    type: 'TITLE'
+    message: '&7Eklenti başarıyla &c%time% &7sürede yeniden yüklendi!'

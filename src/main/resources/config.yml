@@ -1,0 +1,10 @@
+Main:
+  prefix: '&6HexCapAuth &c|'
+  debug: true
+
+Data:
+  ip: 'localhost'
+  port: '3306'
+  database: 'db_name'
+  username: 'root'
+  password: 'myawsomerootpass'

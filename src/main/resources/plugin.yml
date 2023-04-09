@@ -1,0 +1,6 @@
+name: HexCapAuth
+version: ${project.version}
+main: me.alpho320.hexcap.auth.HexCapAuthPlugin
+api-version: 1.13
+depend:
+  - AuthMe
